@@ -40,6 +40,7 @@ public class CalculatorUI implements TextProvider, SelectionListener {
 	private Button[] numberButtons;
 
 	private Button[] cmdButtons;
+	
 
 	public static void main(String[] args) {
 		Display display = new Display();
